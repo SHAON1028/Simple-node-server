@@ -1,0 +1,8 @@
+/*
+1.create post API[server]
+2.Use express.json as middleware
+app.use(express.json());[server]
+3.Use fetch with method POST,headers with 'context-type': 'application/json',
+body:JSON.stringify(data)[client],
+
+*/
